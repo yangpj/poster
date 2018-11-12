@@ -6,3 +6,4 @@
  * Time: 17:19
  */
 phpinfo();
+echo 'Holle World';
